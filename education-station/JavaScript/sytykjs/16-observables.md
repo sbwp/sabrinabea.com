@@ -21,7 +21,7 @@ To stop receiving values, you can unsubscribe. Just like a YouTube channel could
 If you no longer need to receive values from an Observable and you forget to unsubscribe, your subscription will continue to receive the values, wasting resources and potentially causing errors (like attempting to access an object that has been destroyed).
 
 #### RxJS
-There's only one catch to using Observables: they're not in the JavaScript language. OK, that was a bit of a clickbait statement. They come from a popular third-party library called RxJS. While I wanted to keep this article limited to vanilla JavaScript, RxJS observables are so common and so transformative to how asynchronous code is written that I would be remiss to leave them out.
+There's only one catch to using Observables: they're not in the JavaScript language[^1]. OK, that was a bit of a clickbait statement. They come from a popular third-party library called RxJS. While I wanted to keep this article limited to vanilla JavaScript, RxJS observables are so common and so transformative to how asynchronous code is written that I would be remiss to leave them out.
 
 An interesting thing to note is that promises and `async`/`await` were both available as third-party libraries before they were added to the ECMAScript standard, and even then, they were commonly used in production code as well.
 
@@ -156,6 +156,8 @@ I'd also recommend looking into multicasting and the various ways to combine tog
 You can find the documentation for RxJS at rxjs.dev/api. I highly recommend checking out this documentation, as there are some operators that behave slightly differently than you'd expect.
 
 When you google terms in RxJS, you're also likely to come across learnrxjs.io, which has some helpful documentation. Be careful though if you read documentation from reactivex.io. Some of the general ReactiveX terminology is different in RxJS due to naming conflicts with reserved words (such as switch being called switchMap in RxJS), and the part where it says what the equivalent is in RxJS is wrong, because it is based on an old version of RxJS, which had a completely different interface for using operators. They do have some pictures for explaining concepts, though.
+
+[^1]: They're not in JavaScript _yet_. At the time I wrote this several years ago, there had not been significant progress towards adding them to the language, but recently progress has picked up and an early implementation of the new JavaScript Observable API is available in Chrome (v135 and later). This is not yet standardized, but expect it to become standard in the near future. This page still uses RxJS for now, but I'll update it to use the JavaScript Observable API once the standard is accepted and widely available.
 
 [Next: Next Steps](17-next-steps.md)
 
