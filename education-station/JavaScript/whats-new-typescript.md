@@ -1,7 +1,8 @@
 ---
-title: Whats New Typescript
+title: Whats New in Typescript
+parent: JavaScript
 ---
-# What's New in TypeScript
+# What's New in TypeScript (as of November 2019)
 This document provides an overview of the most interesting features added to TypeScript since version 3.7. It is largely based on the release notes [found here](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html), but trimmed down to just the stuff worth knowing.
 
 ## New in TypeScript 3.7
