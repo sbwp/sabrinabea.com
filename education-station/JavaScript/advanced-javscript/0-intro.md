@@ -3,7 +3,7 @@ title: Advanced JavaScript
 parent: JavaScript
 ---
 # Advanced JavaScript
-Whereas [So You Think You Know JavaScript](../So%20You%20Think%20You%20Know%20JavaScript/0-intro.md) presented a guided journey from beginner to advanced-level JavaScript, this serves more as a loose collection of unrelated topics within JavaScript that are all at the advanced level. These are features of the language that you could easily go your entire JavaScript-developing career without ever understanding, but are useful to understand in case you do run into them or a situation where they would be a good solution. Feel free to jump around between topics you find interesting, or to read through from start to finish if you prefer.
+Whereas [So You Think You Know JavaScript](../sytykjs/0-intro.md) presented a guided journey from beginner to advanced-level JavaScript, this serves more as a loose collection of unrelated topics within JavaScript that are all at the advanced level. These are features of the language that you could easily go your entire JavaScript-developing career without ever understanding, but are useful to understand in case you do run into them or a situation where they would be a good solution. Feel free to jump around between topics you find interesting, or to read through from start to finish if you prefer.
 
 [Next: Purely Symbolic](1-symbols-and-protocols.md)
 

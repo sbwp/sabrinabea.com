@@ -21,7 +21,7 @@ For this guide, we will be using TypeScript, since the typings will provide addi
 ### Table of Contents
 
 1. [Observables and Observers](1-observables-observers.md)
-1. [Creating an Observable](2-create-observable.md)
+1. [Creating an Observable](2-create-observables.md)
 1. [Operators](3-operators.md)
 1. [Subjects](4-subjects.md)
 1. More Content Coming Soon

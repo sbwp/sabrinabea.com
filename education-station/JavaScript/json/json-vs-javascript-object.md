@@ -81,7 +81,7 @@ const g = myCat[propKey];             // This is correct
 ```
 
 **Footnotes**  
-<sup>1</sup> Keys can also be of type `symbol`, but that is beyond the scope of this article. You can learn more about symbols [here](../So%20You%20Think%20You%20Know%20JavaScript/10-symbols-and-protocols).
+<sup>1</sup> Keys can also be of type `symbol`, but that is beyond the scope of this article. You can learn more about symbols [here](../advanced-javscript/1-symbols-and-protocols.md).
 
 
 ## What is JSON?
