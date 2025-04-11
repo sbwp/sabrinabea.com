@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Playground for testing RxJS using Typescript",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start-no-build": "node ",
+    "start": "npm run build && npm run start-no-build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
