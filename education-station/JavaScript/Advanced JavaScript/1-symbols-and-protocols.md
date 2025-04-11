@@ -1,3 +1,8 @@
+---
+title: Symbols And Protocols
+parent: Advanced JavaScript
+nav_order: 1
+---
 [Previous: Table of Contents](0-intro.md)
 
 ## Purely Symbolic

@@ -1,3 +1,7 @@
+---
+title: mongodb
+parent: JSON
+---
 # MongoDB
 If you've queried data from a Mongo database, you've probably seen that its data looks a lot like JSON. This is because it stores objects internally in a format very similar to JSON called _BSON_.
 

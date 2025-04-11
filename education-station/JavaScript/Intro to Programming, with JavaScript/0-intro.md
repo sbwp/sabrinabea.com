@@ -1,3 +1,7 @@
+---
+title: Intro to Programming, with JavaScript
+parent: JavaScript
+---
 <!-- TODO: All content will go in this file, to be moved around and broken down later -->
 # Intro to Programming, with JavaScript
 This course provides an introduction to programming, using the programming language JavaScript. It assumes no prior knowledge of programming.

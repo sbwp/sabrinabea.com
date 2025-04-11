@@ -1,3 +1,8 @@
+---
+title: Type
+parent: So You Think You Know JavaScript
+nav_order: 1
+---
 [Previous: Intro](0-intro.md)
 
 ### Just My Type

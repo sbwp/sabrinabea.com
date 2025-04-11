@@ -1,3 +1,8 @@
+---
+title: Next Steps
+parent: Intro to TypeScript
+nav_order: 10
+---
 [Previous: More Cool Features](9-cool-stuff.md)
 
 ## Next Steps

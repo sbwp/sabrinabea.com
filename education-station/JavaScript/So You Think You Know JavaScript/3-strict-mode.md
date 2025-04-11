@@ -1,3 +1,8 @@
+---
+title: Strict Mode
+parent: So You Think You Know JavaScript
+nav_order: 3
+---
 [Previous: What the Heck-ma Is an Ecma](2-ecma.md)
 
 ### Strictly Speaking

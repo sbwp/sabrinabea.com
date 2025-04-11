@@ -1,3 +1,8 @@
+---
+title: Observables
+parent: So You Think You Know JavaScript
+nav_order: 16
+---
 [Previous: Awaiting Your Response](15-async-await.md)
 
 ### Like, Comment, and Subscribe

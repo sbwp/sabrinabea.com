@@ -1,3 +1,8 @@
+---
+title: Tagged Template Strings
+parent: Advanced JavaScript
+nav_order: 2
+---
 [Previous: Purely Symbolic](1-symbols-and-protocols.md)
 
 ## Let's Play Tag

@@ -1,3 +1,8 @@
+---
+title: Class
+parent: So You Think You Know JavaScript
+nav_order: 4
+---
 [Previous: Strictly Speaking](3-strict-mode.md)
 
 ### JavaScript Just Got Classier

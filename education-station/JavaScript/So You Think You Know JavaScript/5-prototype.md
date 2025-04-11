@@ -1,3 +1,8 @@
+---
+title: Prototype
+parent: So You Think You Know JavaScript
+nav_order: 5
+---
 [Previous: JavaScript Just Got Classier](4-class.md)
 
 ### Not the Inheritance You Expected

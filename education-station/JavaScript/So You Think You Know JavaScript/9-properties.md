@@ -1,3 +1,8 @@
+---
+title: Properties
+parent: So You Think You Know JavaScript
+nav_order: 9
+---
 [Previous: What Do We Need Four Fors For?](8-for.md)
 
 ### That's My Property!

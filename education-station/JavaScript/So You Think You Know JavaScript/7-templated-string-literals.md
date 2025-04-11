@@ -1,3 +1,8 @@
+---
+title: Templated String Literals
+parent: So You Think You Know JavaScript
+nav_order: 7
+---
 [Previous: Hoist Yourself Up! Let's Scope This Out!](6-hoisting-and-scope.md)
 
 ### Templated String Literals

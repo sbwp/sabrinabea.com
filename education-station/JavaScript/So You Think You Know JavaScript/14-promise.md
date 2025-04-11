@@ -1,3 +1,8 @@
+---
+title: Promise
+parent: So You Think You Know JavaScript
+nav_order: 14
+---
 [Previous: Please Callback](13-callbacks.md)
 
 ### I Promise I'll Change

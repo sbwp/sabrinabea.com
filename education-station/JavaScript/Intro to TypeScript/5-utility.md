@@ -1,3 +1,8 @@
+---
+title: Utility
+parent: Intro to TypeScript
+nav_order: 5
+---
 [Previous: Generics and Type Parameters](4-generics.md)
 
 ## Optional Properties And Utility Types

@@ -1,3 +1,8 @@
+---
+title: Strict Null Checks
+parent: Intro to TypeScript
+nav_order: 8
+---
 [Previous: Type Predicates and Assert Signatures](7-type-predicates.md)
 
 ## Strict Null Checks

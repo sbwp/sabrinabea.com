@@ -1,3 +1,8 @@
+---
+title: For
+parent: So You Think You Know JavaScript
+nav_order: 8
+---
 [Previous: Templated String Literals](7-templated-string-literals.md)
 
 ### What Do We Need Four `for`s For?

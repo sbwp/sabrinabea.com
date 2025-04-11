@@ -1,3 +1,8 @@
+---
+title: Callbacks
+parent: So You Think You Know JavaScript
+nav_order: 13
+---
 [Previous: I Have Asynching Feeling](12-asynchronous.md)
 
 ### Please Callback

@@ -1,3 +1,8 @@
+---
+title: Generics
+parent: Intro to TypeScript
+nav_order: 4
+---
 [Previous: More Types of Types](3-types.md)
 
 ## Generics and Type Parameters

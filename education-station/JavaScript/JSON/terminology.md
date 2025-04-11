@@ -1,3 +1,7 @@
+---
+title: terminology
+parent: JSON
+---
 # JSON Terminology
 This is intended to provide a high level overview of terminology used when talking about JSON and JSON-like formats. For the formal specification, see [json.org](https://www.json.org/json-en.html).
 

@@ -1,3 +1,8 @@
+---
+title: Create Observables
+parent: RxJS
+nav_order: 2
+---
 [Previous: Observables and Observers](1-observables-observers.md)
 ### Creating Observables
 Before we can start manipulating observables and subscribing to them, we need to create an observable. In the wild, you'll often receive an observable from a library or framework, or from a `Subject` (we'll cover that [later](4-subjects.md)), but when you do need to create one, these are your options.

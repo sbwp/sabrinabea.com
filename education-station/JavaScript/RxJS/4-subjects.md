@@ -1,3 +1,8 @@
+---
+title: Subjects
+parent: RxJS
+nav_order: 4
+---
 [Previous: Operators](3-operators.md)
 
 ### Subjects

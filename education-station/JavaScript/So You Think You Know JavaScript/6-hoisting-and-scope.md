@@ -1,3 +1,8 @@
+---
+title: Hoisting And Scope
+parent: So You Think You Know JavaScript
+nav_order: 6
+---
 [Previous: Not the Inheritance You Expected](5-prototype.md)
 
 ### Hoist Yourself Up

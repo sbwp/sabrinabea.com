@@ -1,3 +1,8 @@
+---
+title: Return Of The Types
+parent: Intro to TypeScript
+nav_order: 6
+---
 [Previous: Optional Properties And Utility Types](5-utility.md)
 
 ## Working With Types

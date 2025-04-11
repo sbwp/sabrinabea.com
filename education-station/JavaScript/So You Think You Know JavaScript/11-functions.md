@@ -1,3 +1,8 @@
+---
+title: Functions
+parent: So You Think You Know JavaScript
+nav_order: 11
+---
 [Previous: That's My Property](9-properties.md)
 
 ### Can't Function Without You

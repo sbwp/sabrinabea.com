@@ -1,3 +1,6 @@
+---
+title: Whats New Typescript
+---
 # What's New in TypeScript
 This document provides an overview of the most interesting features added to TypeScript since version 3.7. It is largely based on the release notes [found here](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html), but trimmed down to just the stuff worth knowing.
 

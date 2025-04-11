@@ -1,3 +1,8 @@
+---
+title: Classes
+parent: Intro to TypeScript
+nav_order: 2
+---
 [Previous: Interfaces](1-interfaces.md)
 
 ## Classes

@@ -1,3 +1,8 @@
+---
+title: Struct Class
+parent: Swift-For-Developers
+nav_order: 1
+---
 [Previous: The Basics](0-intro.md)
 # Swift For Developers
 

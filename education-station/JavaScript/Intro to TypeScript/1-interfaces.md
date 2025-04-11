@@ -1,3 +1,8 @@
+---
+title: Interfaces
+parent: Intro to TypeScript
+nav_order: 1
+---
 ## Interfaces
 
 If you've used another language with the concept of an "interface" before, like Java, you may be confused about why we're using interfaces this way. While a TypeScript `interface` can be used for the same purpose as a Java interface, it also fills a role somewhat similar to a structure (struct) in other languages.

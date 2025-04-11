@@ -1,3 +1,8 @@
+---
+title: Types
+parent: Intro to TypeScript
+nav_order: 3
+---
 [Previous: Classes](2-classes.md)
 
 ## More Types of Types

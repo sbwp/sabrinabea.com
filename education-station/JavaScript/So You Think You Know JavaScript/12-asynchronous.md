@@ -1,3 +1,8 @@
+---
+title: Asynchronous
+parent: So You Think You Know JavaScript
+nav_order: 12
+---
 [Previous: Can't Function Without You](11-functions.md)
 
 ### I Have Asynching Feeling 

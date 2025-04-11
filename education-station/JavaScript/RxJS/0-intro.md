@@ -1,3 +1,7 @@
+---
+title: RxJS
+parent: JavaScript
+---
 # RxJS
 Imagine you've come across a YouTube channel you like. What do you do? You _subscribe_ to it. There are a number of videos out on the channel already that you can immediately get access to, and any new videos that the channel releases will automagically appear in your Subscriptions feed.
 

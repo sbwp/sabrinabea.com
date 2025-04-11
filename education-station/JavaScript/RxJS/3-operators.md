@@ -1,3 +1,8 @@
+---
+title: Operators
+parent: RxJS
+nav_order: 3
+---
 [Previous: Creating Observables](2-create-observables.md)
 ### Operators
 In RxJS, _operators_ allow us to apply a transformation to an observable and subscribe to the output. Let's start by taking a look at the most common operator in action: `map`.

@@ -1,3 +1,8 @@
+---
+title: Protocols
+parent: Swift-For-Developers
+nav_order: 5
+---
 [Previous: Initializers](4-initializers.md)
 # Swift For Developers
 

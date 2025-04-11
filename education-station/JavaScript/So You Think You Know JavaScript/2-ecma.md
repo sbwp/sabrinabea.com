@@ -1,3 +1,8 @@
+---
+title: Ecma
+parent: So You Think You Know JavaScript
+nav_order: 2
+---
 [Previous: Just My Type](1-type.md)
 
 ### What the Heck-ma Is an Ecma?

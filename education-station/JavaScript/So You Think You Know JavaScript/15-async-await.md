@@ -1,3 +1,8 @@
+---
+title: Async Await
+parent: So You Think You Know JavaScript
+nav_order: 15
+---
 [Previous: I Promise I'll Change](14-promise.md)
 
 ### Awaiting Your Response

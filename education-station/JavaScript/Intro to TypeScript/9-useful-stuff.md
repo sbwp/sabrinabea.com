@@ -1,3 +1,8 @@
+---
+title: Useful Stuff
+parent: Intro to TypeScript
+nav_order: 9
+---
 [Previous: Strict Null Checks](8-strict-null-checks.md)
 
 # More Useful Features

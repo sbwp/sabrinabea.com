@@ -1,3 +1,8 @@
+---
+title: Named Parameters
+parent: Swift-For-Developers
+nav_order: 2
+---
 [Previous: Value Type vs Reference Type](1-struct-class.md)
 # Swift For Developers
 

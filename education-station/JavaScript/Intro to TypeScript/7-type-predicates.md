@@ -1,3 +1,8 @@
+---
+title: Type Predicates
+parent: Intro to TypeScript
+nav_order: 7
+---
 [Previous: Working With Types](6-return-of-the-types.md)
 
 ## Type Predicates and Assert Signatures

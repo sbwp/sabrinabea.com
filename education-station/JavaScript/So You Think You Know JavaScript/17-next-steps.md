@@ -1,3 +1,8 @@
+---
+title: Next Steps
+parent: So You Think You Know JavaScript
+nav_order: 17
+---
 [Previous: Like, Comment, and Subscribe](16-observables.md)
 
 ### Next Steps
