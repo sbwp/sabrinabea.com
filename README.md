@@ -1,3 +1,7 @@
+---
+title: Home
+nav_order: 1
+---
 # Sabrina Bea
 
 One day I'll put something more interesting on this homepage, but today is not that day.
