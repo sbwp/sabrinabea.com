@@ -3,7 +3,7 @@ title: Value vs Reference Types
 parent: Swift For Developers
 nav_order: 1
 ---
-[Previous: The Basics](./#the-basics)
+[Previous: The Basics](0-the-basics.md)
 ## Value Type vs Reference Type
 
 In Swift, a type can be a _value type_ or a _reference type_. Value types are copied on assignment, whereas assigning a reference type assigns a reference to the original object. Value types are defined using the _struct_ keyword, and reference types are defined using the _class_ keyword.
