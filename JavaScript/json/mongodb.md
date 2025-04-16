@@ -1,5 +1,5 @@
 ---
-title: mongodb
+title: MongoDB and BSON
 parent: JSON
 ---
 # MongoDB

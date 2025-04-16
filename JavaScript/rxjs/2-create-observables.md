@@ -1,5 +1,5 @@
 ---
-title: Create Observables
+title: Creating Observables
 parent: RxJS
 nav_order: 2
 ---

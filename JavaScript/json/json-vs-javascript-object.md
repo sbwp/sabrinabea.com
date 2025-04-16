@@ -1,5 +1,5 @@
 ---
-title: Json Vs Javascript Object
+title: JSON Vs JavaScript Objects
 parent: JSON
 ---
 # JSON vs JavaScript Objects

@@ -1,5 +1,5 @@
 ---
-title: Observables Observers
+title: Observables and Observers
 parent: RxJS
 nav_order: 1
 ---

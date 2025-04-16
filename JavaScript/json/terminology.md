@@ -1,5 +1,5 @@
 ---
-title: terminology
+title: JSON Terminology
 parent: JSON
 ---
 # JSON Terminology
