@@ -125,4 +125,4 @@ Once again, a simple change of the function signature solves our issue. By using
 
 [Next: Strict Null Checks](8-strict-null-checks.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

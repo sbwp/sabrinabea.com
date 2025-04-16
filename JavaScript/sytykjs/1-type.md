@@ -3,7 +3,7 @@ title: Just My Type
 parent: So You Think You Know JavaScript
 nav_order: 1
 ---
-[Previous: Intro](0-intro.md)
+[Previous: Intro](index)
 
 ## Just My Type
 For many people new to JavaScript, their first response may be, "JavaScript doesn't have types." But that's not true, it does! Every variable has a type, but they are not written explicitly. When we assign a value to a variable, the type is implied behind the scenes. However, since variables can be reassigned later to be a different type, it's easy to see why this misconception exists. 
@@ -138,4 +138,4 @@ console.log(JSON.stringify(obj) + ' is my favorite object');
 
 [Next: What the Heck-ma Is an Ecma?](2-ecma.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

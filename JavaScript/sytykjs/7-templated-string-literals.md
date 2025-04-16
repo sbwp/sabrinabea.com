@@ -25,4 +25,4 @@ This didn't feel like it needed its own section, but I included this since many 
 
 [Next: What Do We Need Four Fors For?](8-for.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

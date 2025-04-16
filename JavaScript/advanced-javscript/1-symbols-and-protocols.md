@@ -3,7 +3,7 @@ title: Symbols And Protocols
 parent: Advanced JavaScript
 nav_order: 1
 ---
-[Previous: Table of Contents](0-intro.md)
+[Previous: Table of Contents](index)
 
 ## Purely Symbolic
 Symbols were introduced in EcmaScript 2015, and despite being one of the few primitive types and being the exception to a number of rules, most JavaScript developers don't know what they're for, assuming they even know they exist. Symbols are created using the `Symbol()` function, which optionally takes a `string` parameter, and returns a new, unique `symbol`.
@@ -382,4 +382,4 @@ for (const v of list) {
 
 [Next: Let's Play Tag](2-tagged-template-strings.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

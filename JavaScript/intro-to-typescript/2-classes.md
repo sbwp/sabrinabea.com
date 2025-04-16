@@ -185,4 +185,4 @@ Also note that if we tried to construct an `Animal` directly, via `new Animal(nu
 
 [Next: More Types of Types](3-types.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

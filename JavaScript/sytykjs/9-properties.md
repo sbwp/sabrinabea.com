@@ -322,7 +322,7 @@ function createPost({ user = loggedInUser, date = Date(),body = '', image = null
 createPost({ body: 'Having a fun vacation!', image: imageOfBeachHouse });
 ```
 
-By using object destructuring for parameters, we can omit any combination of properties to use the default without providing all previous positional parameters, just like in a language with named parameters like [Swift](../../Swift/Swift-For-Developers/0-intro).
+By using object destructuring for parameters, we can omit any combination of properties to use the default without providing all previous positional parameters, just like in a language with named parameters like [Swift](../../Swift/Swift-For-Developers/index).
 
 #### Rest Parameters
 The `...` operator has a use in function parameters as well. At the end of a function's parameter list, you can put a name preceded by `...` to represent an array of the rest of the parameters. This is, fittingly, called the rest parameter.
@@ -414,4 +414,4 @@ var obj = {
 
 [Next: Can't Function Without You](11-functions.md)s
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

@@ -302,4 +302,4 @@ We can see that using `fn.length`, we can see how many parameters `fn` takes. Ev
 
 [Next: I Have Asynching Feeling](12-asynchronous.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

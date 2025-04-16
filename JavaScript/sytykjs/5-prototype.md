@@ -77,4 +77,4 @@ You can learn more about the prototype chain [here](https://developer.mozilla.or
 
 [Next: Hoist Yourself Up! Let's Scope This Out!](6-hoisting-and-scope.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

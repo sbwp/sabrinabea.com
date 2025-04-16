@@ -39,4 +39,4 @@ const addItemsInRowsContainingSeven = grid =>
 ```
 [Next: Stricly Speaking](3-strict-mode.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

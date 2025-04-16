@@ -80,4 +80,4 @@ We can see that the parent class's constructor is available in the child class a
 
 [Next: Not the Inheritance You Expected](5-prototype.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

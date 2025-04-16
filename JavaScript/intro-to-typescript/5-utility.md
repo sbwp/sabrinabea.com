@@ -159,4 +159,4 @@ options.maxRetries = 4;
 
 [Next: Working With Types](6-return-of-the-types.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

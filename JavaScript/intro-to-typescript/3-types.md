@@ -234,4 +234,4 @@ When we apply this to classes and interfaces, the corresponding set becomes the 
 
 [Next: Generics and Type Parameters](4-generics.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

@@ -44,4 +44,4 @@ You should always write code assuming you're in strict mode. Sloppy mode is ther
 
 [Next: JavaScript Just Got Classier](4-class.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

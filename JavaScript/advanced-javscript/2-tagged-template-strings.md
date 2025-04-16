@@ -116,4 +116,4 @@ await post`I had a lot fun at the zoo with ${'mmorstan'} today. It was quite une
 
 <!-- [Next: TBD](3-tbd.md) -->
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

@@ -191,4 +191,4 @@ Note that if a spread array in a tuple is not the last item in the tuple, all it
 
 [Next: Type Predicates and Assert Signatures](7-type-predicates.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

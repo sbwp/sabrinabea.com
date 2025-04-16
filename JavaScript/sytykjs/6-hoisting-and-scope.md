@@ -232,4 +232,4 @@ When writing modern JavaScript, you should use `const` by default, and change it
 
 [Next: Templated String Literals](7-templated-string-literals.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

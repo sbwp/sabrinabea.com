@@ -60,4 +60,4 @@ This is loosely based on (read: it's supposed to be accurate, but I didn't test 
 
 [Next: Optional Properties And Utility Types](5-utility.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

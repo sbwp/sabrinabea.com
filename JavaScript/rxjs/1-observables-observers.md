@@ -8,7 +8,7 @@ nav_order: 1
 #### What is an Observable?
 An observable is something that provides a series of values over time. This may seem a bit complicated, but chances are, you're already familiar with the concept -- not from programming, but from YouTube.
 
-In the Intro section, I gave an analogy between Observables and YouTube subscriptions. That was actually an excerpt from the [section on Observables](../sytykjs/16-observables.md) in [_So You Think You Know JavaScript_](../So%20You%20Think%20You%20Know%20JavaScript/0-intro.md). Here is the full quote from So You Think You Know JavaScript:
+In the Intro section, I gave an analogy between Observables and YouTube subscriptions. That was actually an excerpt from the [section on Observables](../sytykjs/16-observables.md) in [_So You Think You Know JavaScript_](../sytykjs/index.md). Here is the full quote from So You Think You Know JavaScript:
 
 > &nbsp;
 > Imagine you've come across a YouTube channel you like, so you _subscribe_ to it. There are a number of videos out on the channel already that you can immediately get access to, and any new videos that the channel releases will appear in your Subscriptions feed.

@@ -161,4 +161,4 @@ When you google terms in RxJS, you're also likely to come across learnrxjs.io, w
 
 [Next: Next Steps](17-next-steps.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

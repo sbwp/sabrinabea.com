@@ -1,6 +1,7 @@
 ---
 title: So You Think You Know JavaScript
 parent: JavaScript
+nav_order: 2
 ---
 # So You Think You Know JavaScript?
 At the surface, JavaScript can seem like a quite simple language. It has functions, arrays, objects, strings, for loops, and many other mainstays of programming languages, but lacks type safety. Perhaps you've written a bit of JavaScript yourself and found it to be very similar to other languages with C-style syntax, but without many of the higher-concept Object-Oriented features.

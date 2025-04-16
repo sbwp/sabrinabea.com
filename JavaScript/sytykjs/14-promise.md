@@ -266,4 +266,4 @@ function populateFriendsOfFriends() {
 
 [Next: Awaiting Your Response](15-async-await.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

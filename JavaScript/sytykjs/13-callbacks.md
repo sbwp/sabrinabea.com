@@ -128,4 +128,4 @@ Even after breaking down the steps into separate functions, in a complex situati
 
 [Next: I Promise I'll Change](14-promise.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

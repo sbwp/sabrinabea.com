@@ -1,6 +1,7 @@
 ---
 title: Intro to Programming, with JavaScript
 parent: JavaScript
+nav_order: 1
 ---
 <!-- TODO: All content will go in this file, to be moved around and broken down later -->
 # Intro to Programming, with JavaScript

@@ -34,4 +34,4 @@ As a general rule of thumb, if there's something you want to do but you don't kn
 
 I hope you've enjoyed this article. Reach out to me if you have any questions, or if you would like me to cover any other topics.
 
-[Table Of Contents](0-intro.md)
+[Table Of Contents](index)

@@ -121,4 +121,4 @@ console.log(myName.toLowerCase());
 
 [Next: More Useful Features](9-useful-stuff.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

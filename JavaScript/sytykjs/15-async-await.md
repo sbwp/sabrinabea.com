@@ -143,4 +143,4 @@ It's worth pointing out that in the above example, we use one error message for 
 
 [Next: Like, Comment, and Subscribe](16-observables.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

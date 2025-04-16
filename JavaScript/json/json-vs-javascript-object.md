@@ -4,7 +4,7 @@ parent: JSON
 ---
 # JSON vs JavaScript Objects
 
-One confusing phrase I hear quite a bit is "JSON object". It is often used to describe a JavaScript object that is not an instance of a class, or an object in general. In reality, this name is inaccurate and misleading, on top of being a redundant phrase. In this article, I hope to clear up some of this confusion and explain clearly what these two (very different) concepts are.
+One confusing phrase I hear quite a bit is "JSON object". It is often used to describe a JavaScript object that is not an instance of a class, or an object in general. In reality, this name is inaccurate and misleading, on top of being redundant. In this article, I hope to clear up some of this confusion and explain clearly what these two (very different) concepts are.
 
 ## What is a JavaScript Object?
 In the language JavaScript, one of the types defined in the language (there are currently nine) is `object`. Note that this section is **_not_** about JSON.

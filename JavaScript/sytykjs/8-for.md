@@ -130,4 +130,4 @@ If we were to try to iterate over the object using `for ... of`, we would get an
 
 [Next: That's My Property!](9-properties.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

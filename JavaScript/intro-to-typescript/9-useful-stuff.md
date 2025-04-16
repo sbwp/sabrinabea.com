@@ -290,4 +290,4 @@ By default, `lib` will be set to the target ECMAScript version, plus `"dom"`, `"
 
 [Next: Next Steps](10-next-steps.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)

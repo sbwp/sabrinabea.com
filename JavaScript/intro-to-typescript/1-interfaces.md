@@ -44,4 +44,4 @@ Then we use the type in the signature for the function `sendLetter` the same way
 
 [Next: Classes](2-classes.md)
 
-[Table of Contents](0-intro.md)
+[Table of Contents](index)
