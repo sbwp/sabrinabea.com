@@ -1,6 +1,5 @@
 ---
 title: JavaScript
-nav_order: 2
 ---
 # JavaScript
 This folder contains a number of "courses" on JavaScript. If you knew nothing about programming or JavaScript and wanted to read all of these, the order to do so would be:
