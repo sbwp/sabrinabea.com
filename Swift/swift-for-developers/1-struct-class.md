@@ -1,5 +1,5 @@
 ---
-title: Struct Class
+title: Value Type vs Reference Type
 parent: Swift For Developers
 nav_order: 1
 ---
