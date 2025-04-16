@@ -8,6 +8,8 @@ This is intended to be an introduction to the Swift programming language for peo
 
 ### Table of Contents
 
+[The Basics](#the-basics)
+
 [Value Type vs Reference Type](1-struct-class.md)
 
 [Named Parameters](2-named-parameters.md)
