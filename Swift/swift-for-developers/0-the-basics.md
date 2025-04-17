@@ -1,5 +1,5 @@
 ---
-title: Value vs Reference Types
+title: The Basics
 parent: Swift For Developers
 nav_order: 0
 ---

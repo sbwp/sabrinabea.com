@@ -13,37 +13,3 @@ For general comments and discussion, I've enabled the Discussions section on thi
 Without further ado, let's get started!
 
 [Next: Just My Type](1-type.md)
-
-## Table of Contents
-
-[Just My Type](1-type.md)
-
-[What the Heck-ma Is an Ecma?](2-ecma.md)
-
-[Strictly Speaking](3-strict-mode.md)
-
-[JavaScript Just Got Classier](4-class.md)
-
-[Not the Inheritance You Expected](5-prototype.md)
-
-[Hoist Yourself Up! Let's Scope This Out!](6-hoisting-and-scope.md)
-
-[Templated String Literals](7-templated-string-literals.md)
-
-[What Do We Need Four Fors For?](8-for.md)
-
-[That's My Property!](9-properties.md)
-
-[Can't Function Without You](11-functions.md)
-
-[I Have Asynching Feeling ](12-asynchronous.md)
-
-[Please Callback](13-callbacks.md)
-
-[I Promise I'll Change](14-promise.md)
-
-[Awaiting Your Response](15-async-await.md)
-
-[Like, Comment, and Subscribe!](16-observables.md)
-
-[Next Steps](17-next-steps.md)

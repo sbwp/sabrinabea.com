@@ -18,11 +18,3 @@ Join me on this quest to learn all about RxJS and how it can make your code simp
 For this guide, we will be using TypeScript, since the typings will provide additional insight into RxJS and help us keep track of what's going on in the examples. To make trying things out easier, there is a playground directory in this folder. To use the playground, clone or download this repository to your computer, navigate to the playground folder in your command terminal, and run `npm install`. Then you can put the code you want to try out in `src/index.ts` (or any other `.ts` file under `src`), and run it using `npm start`. If you would like to re-run your code without recompiling, use `npm run start-no-build`.
 
 [Next: Observables and Observers](1-observables-observers.md)
-
-### Table of Contents
-
-1. [Observables and Observers](1-observables-observers.md)
-2. [Creating an Observable](2-create-observables.md)
-3. [Operators](3-operators.md)
-4. [Subjects](4-subjects.md)
-5. More Content Coming Soon
